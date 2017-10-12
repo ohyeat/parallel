@@ -5,6 +5,7 @@ int main(){
 
 printf("Hello, World!\n");
 printf("My first time\n");
+printf("Math is my life\n");
 return(0);
 
 }
